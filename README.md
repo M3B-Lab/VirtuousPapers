@@ -1,5 +1,10 @@
 # VirtuousPapers
-Official repo for papers published within the VIRTUOUS project (https://virtuoush2020.com/)
+Official repo for papers published within the EU-funded VIRTUOUS project (https://virtuoush2020.com/)
+
+[![Virtuous button][Virtuous_image]][Virtuous link]
+
+[Virtuous_image]: https://virtuoush2020.com/wp-content/uploads/2021/02/V_logo_h.png
+[Virtuous link]: https://virtuoush2020.com/
 
 1. Ahmad A. Learning about chlorophyll and anthocyanins as potential indicators of plant physiological state. ReiDoCrea: Revista electrónica de investigación Docencia Creativa. Published online March 18, 2022. doi:10.30827/Digibug.73538
 2. Ahmad A. Artificial Intelligence (AI) as a complementary technology for agricultural Remote Sensing (RS) in plant physiology teaching. ReiDoCrea: Revista electrónica de investigación Docencia Creativa. Published online October 31, 2022. doi:10.30827/Digibug.77656
@@ -28,3 +33,8 @@ Official repo for papers published within the VIRTUOUS project (https://virtuous
 25. Venturini F, Sperti M, Michelucci U, et al. Exploration of Spanish Olive Oil Quality with a Miniaturized Low-Cost Fluorescence Sensor and Machine Learning Techniques. Foods. 2021;10(5):1010. doi:10.3390/foods10051010
 26. Venturini F, Sperti M, Michelucci U, Gucciardi A, Martos VM, Deriu MA. Extraction of physicochemical properties from the fluorescence spectrum with 1D convolutional neural networks: Application to olive oil. Journal of Food Engineering. 2023;336:111198. doi:10.1016/j.jfoodeng.2022.111198
 
+---
+
+### Acknowledgements:
+
+The listed works have been developed as part of the VIRTUOUS project, funded by the European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie-RISE Grant Agreement No. 872181 (https://www.virtuoush2020.com/).
